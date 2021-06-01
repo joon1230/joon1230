@@ -4,7 +4,6 @@
 
 **CONTACT** <p>
 ✉️ **Email** | joonamm@naver.com </br>
-🦊 [**Github**](https://github.com/joons1230) | 공부한 기록 및 프로젝트 </br>
 🗓 [**Notion**](https://www.notion.so/00388744cbae4e059563ccb679d8ec7f) | Notion </br>
 </p>
 
