@@ -22,4 +22,4 @@
 **~ing 📝**
 
 `2021.01 -   ~ ing`  | BoostCamp AI Tech  
-`2021.05 -   ~ ing`  | What is this?  ( 이미지 분류 웹페이지 ) </br>
+`2021.05 -   ~ ing`  | What is this?  ( OCR 웹페이지 ) </br>
