@@ -4,7 +4,7 @@
 
 **CONTACT** <p>
 ✉️ **Email** | joonamm1230@gmail.com </br>
-🗓 Notion|[**Notion**](https://www.notion.so/00388744cbae4e059563ccb679d8ec7f) </br>
+🗓 **Notion** | [Link](https://www.notion.so/00388744cbae4e059563ccb679d8ec7f) </br>
 </p>
 
 </br>
