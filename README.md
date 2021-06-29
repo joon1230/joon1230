@@ -11,11 +11,3 @@
 
 <!-- h2><b> Tech Stack </b></h2-->
 
-**MAIN STACK ⭐**
-<p>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<!-- <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" /> -->
-<!-- <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>  -->
-</p>
-</br>
-
