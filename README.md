@@ -19,8 +19,3 @@
 </p>
 </br>
 
-**~ing 📝**
-
-`2021.01 -   ~ ing`  | BoostCamp AI Tech  
-`2021.05 -   ~ ing`  | What is this?  ( image classification web serving ) </br>
-`2021.05 -   ~ ing`  | What is That?  ( OCR web serving ) </br>
